@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Itog\DZarray\bin\Debug\net6.0\DZarray.exe
+C:\Users\DNS\Desktop\Itog\DZarray\bin\Debug\net6.0\DZarray.deps.json
+C:\Users\DNS\Desktop\Itog\DZarray\bin\Debug\net6.0\DZarray.runtimeconfig.json
+C:\Users\DNS\Desktop\Itog\DZarray\bin\Debug\net6.0\DZarray.dll
+C:\Users\DNS\Desktop\Itog\DZarray\bin\Debug\net6.0\DZarray.pdb
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\DZarray.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\DZarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\DZarray.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\DZarray.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\DZarray.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\DZarray.dll
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\refint\DZarray.dll
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\DZarray.pdb
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\DZarray.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Itog\DZarray\obj\Debug\net6.0\ref\DZarray.dll
